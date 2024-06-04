@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "@chainlink/contracts": "^1.1.1",
+    "@truffle/hdwallet-provider": "^1.7.0",
+    "dotenv": "^16.4.5",
+    "solc": "^0.8.0",
+    "web3": "^4.9.0"
+  },
+  "name": "block_magic",
+  "version": "1.0.0",
+  "description": "Chainlink Hackathon",
+  "main": "2_deploy_contracts.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "truffle": "^5.11.5"
+  }
+}
